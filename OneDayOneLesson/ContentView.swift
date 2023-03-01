@@ -23,7 +23,8 @@ struct ContentView: View {
         Sentence(cn: "一路上有你，苦一点也愿意，苦很多免谈。", en: "As long as you're with me, I'm willing to endure a little hardship. If it's too much, forget it."),
         Sentence(cn: "如果你不珍惜我，那么过了这个村，我在下一个村等你。", en: "If you don't treasure me, then when we pass this village, I'll be waiting for you in the next one."),
         Sentence(cn: "为什么家长只看分数？废话！难道他们看得懂题目？", en: "Why do parents only look at grades? Of course! Can they even understand the questions?"),
-        Sentence(cn:  "心软不是病，回头才致命。", en: "Having a soft heart is not a disease, but turning back can be fatal.")
+        Sentence(cn:  "心软不是病，回头才致命。", en: "Having a soft heart is not a disease, but turning back can be fatal."),
+        Sentence(cn:  "test。", en: "test")
     ]
     
     var body: some View {
